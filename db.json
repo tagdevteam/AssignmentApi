@@ -1,0 +1,136 @@
+[
+  {
+    "_id": "5bab708919a776a5cf88b447",
+    "isActive": true,
+    "price": "$1,828.86",
+    "name": "Bullock Waller",
+    "picture": "http://placehold.it/32x32",
+    "email": "bullockwaller@spherix.com",
+    "address": "813 Voorhies Avenue, Hasty, Michigan, 3912",
+    "flights": [
+      {
+        "company": "Perkins Air",
+        "cityOrigin": "Rome",
+        "cityDestination": "Rome",
+        "cityDestinationPicture": "image",
+        "airportOrigin": "Madrid",
+        "airportDestination": "London",
+        "dateTakeOff": "2015-08-09T10:02:02 -01:00",
+        "dateLanding": "2015-09-23T10:27:17 -01:00"
+      },
+      {
+        "company": "Heather Air",
+        "cityOrigin": "Rome",
+        "cityDestination": "Madrid",
+        "cityDestinationPicture": "image",
+        "airportOrigin": "Barcelona",
+        "airportDestination": "Barcelona",
+        "dateTakeOff": "2017-10-07T07:29:09 -01:00",
+        "dateLanding": "2015-02-15T06:18:20 -00:00"
+      }
+    ]
+  },
+  {
+    "_id": "5bab70896e911e90dc5945d8",
+    "isActive": true,
+    "price": "$1,447.48",
+    "name": "Freida Douglas",
+    "picture": "http://placehold.it/32x32",
+    "email": "freidadouglas@spherix.com",
+    "address": "175 Baycliff Terrace, Madrid, Minnesota, 9385",
+    "flights": [
+      {
+        "company": "Ward Air",
+        "cityOrigin": "London",
+        "cityDestination": "Barcelona",
+        "cityDestinationPicture": "image",
+        "airportOrigin": "London",
+        "airportDestination": "London",
+        "dateTakeOff": "2017-11-16T01:02:11 -00:00",
+        "dateLanding": "2015-12-05T09:28:50 -00:00"
+      },
+      {
+        "company": "Joanna Air",
+        "cityOrigin": "Rome",
+        "cityDestination": "Madrid",
+        "cityDestinationPicture": "image",
+        "airportOrigin": "Sindey",
+        "airportDestination": "London",
+        "dateTakeOff": "2018-07-15T02:16:56 -01:00",
+        "dateLanding": "2015-02-08T07:16:44 -00:00"
+      }
+    ]
+  },
+  {
+    "_id": "5bab7089644a7cac42170419",
+    "isActive": false,
+    "price": "$1,876.12",
+    "name": "Nettie Maldonado",
+    "picture": "http://placehold.it/32x32",
+    "email": "nettiemaldonado@spherix.com",
+    "address": "424 Campus Road, Staples, Kansas, 2089",
+    "flights": [
+      {
+        "company": "Walters Air",
+        "cityOrigin": "Sindey",
+        "cityDestination": "Sindey",
+        "cityDestinationPicture": "image",
+        "airportOrigin": "London",
+        "airportDestination": "Sindey",
+        "dateTakeOff": "2016-02-04T08:29:42 -00:00",
+        "dateLanding": "2016-06-01T12:52:59 -01:00"
+      },
+      {
+        "company": "Corrine Air",
+        "cityOrigin": "London",
+        "cityDestination": "Rome",
+        "cityDestinationPicture": "image",
+        "airportOrigin": "Rome",
+        "airportDestination": "Rome",
+        "dateTakeOff": "2015-09-17T08:06:27 -01:00",
+        "dateLanding": "2014-08-25T11:43:57 -01:00"
+      }
+    ]
+  },
+  {
+    "_id": "5bab708954990b0464b5b208",
+    "isActive": false,
+    "price": "$3,455.58",
+    "name": "Conway Montoya",
+    "picture": "http://placehold.it/32x32",
+    "email": "conwaymontoya@spherix.com",
+    "address": "384 Fillmore Place, Delco, Arizona, 1217",
+    "flights": [
+      {
+        "company": "Angelica Air",
+        "cityOrigin": "Madrid",
+        "cityDestination": "Paris",
+        "cityDestinationPicture": "image",
+        "airportOrigin": "Sindey",
+        "airportDestination": "Barcelona",
+        "dateTakeOff": "2015-08-25T12:18:23 -01:00",
+        "dateLanding": "2018-09-24T12:38:41 -01:00"
+      },
+      {
+        "company": "Smith Air",
+        "cityOrigin": "Barcelona",
+        "cityDestination": "Madrid",
+        "cityDestinationPicture": "image",
+        "airportOrigin": "Paris",
+        "airportDestination": "Rome",
+        "dateTakeOff": "2018-03-31T02:02:44 -01:00",
+        "dateLanding": "2016-02-08T10:02:30 -00:00"
+      },
+      {
+        "company": "Abigail Air",
+        "cityOrigin": "Sindey",
+        "cityDestination": "Paris",
+        "cityDestinationPicture": "image",
+        "airportOrigin": "Sindey",
+        "airportDestination": "Sindey",
+        "dateTakeOff": "2014-12-07T09:48:26 -00:00",
+        "dateLanding": "2014-07-27T05:45:06 -01:00"
+      }
+    ]
+  }
+]
